@@ -1,0 +1,36 @@
+body {
+  font-family: Verdana;
+  color: white;
+  background-color: #000;
+  max-width: 640px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+}
+
+.button {
+  border: solid 2px #fff;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline-block;
+  line-height: 1.3em;
+  vertical-align: middle;
+  text-align: center;
+  white-space: nowrap;
+  padding: 8px 12px;
+  border-radius: 3px;
+}
+
+.button:hover {
+  border: solid 2px #ccc;
+  color: #ccc;
+}
+
+.media {
+  text-align: center;
+  margin: 50px 0;
+}
